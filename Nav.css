@@ -1,0 +1,128 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  
+}
+ body
+ {
+  background-color: azure;
+ }
+div
+{
+  float: left;
+  margin: 25px;
+}
+img:hover
+{
+  box-shadow: 15px 15px 15px grey; 
+  opacity:92%;
+}
+li
+{
+  text-decoration: none;
+}
+footer
+{
+  border-top: 2px solid slategray;
+  margin-top: 600px;
+  width: 100%;
+  padding: 10px;
+  font-family: sans-serif;
+  
+  text-align: center;
+  
+}
+
+.div
+{
+  border: 5px;
+  width: 320px;
+  height: 250px;
+  text-align: center;
+  color: blueviolet;
+  font-family: sans-serif;
+font-size: 19px;
+  
+}
+
+.imgo
+{
+  width: 320px ;
+  height: 220px;
+  
+}
+.anc
+{
+  color:black;
+  font-family: sans-serif;
+}
+.anc:hover
+{
+  color:blueviolet
+}
+a{
+  text-decoration: none;
+}
+.Home:hover
+{
+  border-radius: 10px;
+  background-color: black;
+}
+.Home
+{
+  text-decoration: none;
+  margin: 20px;
+  font-size: 20px;
+  color: antiquewhite;
+  padding:10px 0px 10px
+
+  
+}
+
+label
+{
+  margin-left:550px ;
+  color:antiquewhite;
+  font-size:20px
+}
+.anchorfoot
+{
+  margin: 10px;
+  font-size: 20px;
+  margin-left: 10px;
+  
+}
+
+.foothead
+{
+  
+  
+  margin-bottom: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+nav
+{
+  background-color:#322653;
+  
+  padding: 15px;
+  width: 1500px;
+  height:100%;
+  
+}
+
+input
+{
+  height: 25px;
+  border-radius: 6px;
+  width: auto;
+  float: right;
+}
+.footimg{
+margin: 0px 35px;
+height: 25px;
+width: 25px;
+
+}
